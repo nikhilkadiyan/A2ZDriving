@@ -86,14 +86,16 @@ p{
 #testimonials{
     background-color: #847b7a;
 }
+.testimonial-h1{
+    padding-top: 1.5rem;
+}
 .testimonial-text{
     font-size: 3rem;
     line-height: 1.5;
 }
 .testimonial-image{
-    width: 10%;
-    border-radius: 100%;
-    margin: 20px;
+    height: 50%;
+    width: 50%;
 }
 /* Press Section */
 #press{
